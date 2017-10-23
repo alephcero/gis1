@@ -100,4 +100,5 @@ ENV/
 # mypy
 .mypy_cache/
 
-#data/callejero-rar
+#callejero
+data/callejero-rar
